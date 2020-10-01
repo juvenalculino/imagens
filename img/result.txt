@@ -1,0 +1,13 @@
+blog.facebook.com
+www.facebook.com
+www.google.com.robots.txt
+www.google.com/robots.txt
+www.google.com/robots.txt
+www.google.com/robots.txt
+www.google.com/sitemap.xml
+www.google.com/robots.txt
+www.google.com/sitemap.xml
+www.google.com/robots.txt
+www.google.com/sitemap.xml
+google.com/robots.txt
+google.com/sitemap.xml
